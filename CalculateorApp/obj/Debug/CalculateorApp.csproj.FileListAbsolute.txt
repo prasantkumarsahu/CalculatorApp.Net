@@ -1,0 +1,10 @@
+E:\Learn\.Net\CalculateorApp\CalculateorApp\bin\Debug\CalculateorApp.exe.config
+E:\Learn\.Net\CalculateorApp\CalculateorApp\bin\Debug\CalculateorApp.exe
+E:\Learn\.Net\CalculateorApp\CalculateorApp\bin\Debug\CalculateorApp.pdb
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.csproj.AssemblyReference.cache
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.Form1.resources
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.Properties.Resources.resources
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.csproj.GenerateResource.cache
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.csproj.CoreCompileInputs.cache
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.exe
+E:\Learn\.Net\CalculateorApp\CalculateorApp\obj\Debug\CalculateorApp.pdb
